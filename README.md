@@ -4,7 +4,7 @@
 
 
 Download S2IBISpy.exe (Windows 64-bit) — only **43 MB**  
-[Download v2.1.0](https://github.com/simon9721/s2ibispy_exe/S2IBISpy.exe)
+[Download v2.1.0](https://github.com/simon9721/s2ibispy_exe/blob/main/S2IBISpy.exe)
 
 Source code & development: https://github.com/simon9721/s2ibispy
 
