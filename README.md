@@ -1,5 +1,6 @@
 # S2IBISpy v2.1.0 — The world’s easiest open-source IBIS generator with GUI
 
+![S2IBISpy](resources/s2ibispy.png)
 **Double-click → perfect IBIS model + correlation in seconds.**  
 
 
