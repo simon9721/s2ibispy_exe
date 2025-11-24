@@ -73,7 +73,7 @@ Just load `io_buf.s2i` → go to **Simulation** tab → click **Start Conversion
 | Full FAQ / troubleshooting guide | Under construction — contributions welcome! |
 
 We’re actively improving — your feedback makes it better.
-**Please send feedback to:** sh3qm@umsystem.edu (or GitHub Issues)
+**Please send feedback to:** sh3qm@mst.edu (or GitHub Issues)
 
 ---
 
